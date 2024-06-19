@@ -1,1 +1,1 @@
-[Exercises Array.pdf](https://github.com/user-attachments/files/15900764/Exercises.Array.pdf)
+[Java_Exercises_Week_25.pdf](https://github.com/user-attachments/files/15900798/Java_Exercises_Week_25.pdf)

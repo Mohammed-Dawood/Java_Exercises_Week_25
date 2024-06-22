@@ -37,19 +37,10 @@ public class App {
         // Exercise_11.exercise_11();
 
         // To call Exercise_12
-         Exercise_12.exercise_12();
+        // Exercise_12.exercise_12();
 
         // To call Exercise_13
-        // Exercise_13.exercise_13();
-
-        // To call Exercise_14
-        // Exercise_14.exercise_14();
-
-        // To call Exercise_15
-        // Exercise_15.exercise_15();
-
-        // To call Exercise_16
-        // Exercise_16.exercise_16();
+        Exercise_13.exercise_13();
 
     }
 }
